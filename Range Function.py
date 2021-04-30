@@ -1,4 +1,4 @@
-
+#Basic Information About Range Function
 r1=range(10)
 print(typ
 e(r1))
